@@ -1,7 +1,7 @@
 # ReadSeleniumDemo
 A simple navigation in reading the selenium from Dictionary.com using Selenium
 
-#Setting up:
+Setting up:
 1. Install the library selenium for Python. See requirements.txt for version. 
 You may pip install -r requirements.txt, if needed.
 
