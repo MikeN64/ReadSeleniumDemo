@@ -7,6 +7,6 @@ You may pip install -r requirements.txt, if needed.
 
 2. Download selenium chrome driver from this link: https://sites.google.com/a/chromium.org/chromedriver/home
 
-3. Copy the directory path of the chrome driver you download in the setting.py
+3. Copy and paste the directory path of the chrome driver you download in the "PATH_TO_CHROMEDRIVER" from setting.py
 
 4. Run main.py to see the magic!
